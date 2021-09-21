@@ -1,0 +1,26 @@
+{
+  "name": "spa_with_vanillajs",
+  "version": "1.0.0",
+  "description": "Single page app made with node with express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NirajBorole/SPA_with_vanillajs.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express"
+  ],
+  "author": "Niraj b. borole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NirajBorole/SPA_with_vanillajs/issues"
+  },
+  "homepage": "https://github.com/NirajBorole/SPA_with_vanillajs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
